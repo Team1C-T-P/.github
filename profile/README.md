@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 This is the organization for team 1C (probs gonna change that once we deside on a project) made to unify all of our repos and any issues/tasks needed to do under one banner.
-
+:)
 <!--
 
 **Here are some ideas to get you started:**
