@@ -1,4 +1,4 @@
 # .github
 README
 
-Hello this is a red me
+Hello this is a read me
